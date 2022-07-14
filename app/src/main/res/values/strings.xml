@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">stranger</string>
+    <string name="get_started">Get Started</string>
+    <string name="text">Talk with Random people\n from all around the globe\nMake new friends and have fun!</string>
+    <string name="coins_5">Coins : 5</string>
+    <string name="_100">100</string>
+</resources>
